@@ -1,6 +1,7 @@
 # tamboonapi
 Tamboon api for charity donation
 
+here list of api functions
 
-a) call tamboonapi/ for charity list
-b) call tamboonapi/donate to donate
+1. tamboonapi/ for charity list
+2. tamboonapi/donate to donate
