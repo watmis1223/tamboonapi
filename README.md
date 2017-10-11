@@ -2,5 +2,5 @@
 Tamboon api for charity donation
 
 
-call tamboonapi/ for charity list
-call tamboonapi/donate to donate
+a) call tamboonapi/ for charity list
+b) call tamboonapi/donate to donate
